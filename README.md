@@ -53,7 +53,5 @@ This Power BI project presents a detailed dashboard analyzing content from three
 
 ## Feedback
 
-## Feedback
-
 If you find this dashboard useful, feel free to star the repository or [connect with me on LinkedIn](https://www.linkedin.com/in/ravichandran-s-478037244).
 
